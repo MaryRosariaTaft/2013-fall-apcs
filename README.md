@@ -1,2 +1,9 @@
-homework-fall-2013
+Homework, Fall 2013
 ==================
+
+A.P. Computer Science
+------------------
+
+**Teacher: Mr. Zamansky**
+
+**Languages: Java**
